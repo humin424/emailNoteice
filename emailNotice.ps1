@@ -1,5 +1,5 @@
 ﻿
-#总是在幽幽暗暗中鬼混，才明白平平淡淡是真；
+#总是在幽幽暗暗中鬼混，才明白平平淡淡是最真；
 Remove-Variable * -ErrorAction SilentlyContinue;$error.Clear()
 
 
